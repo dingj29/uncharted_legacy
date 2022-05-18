@@ -48,7 +48,7 @@ flipped, the aligned cards create a conflict. The person who wins one conflict w
       gaps if only 6 cards left on the table.
 - 7.	Special case: if there is no card left in the card pile but no one gather 3 gem stone, an inevitable battle would activated.
 
-## Game Component
+## Game Components
   <img src="./game_images/uncharted_legacy_1.png" width="900" height="500">
   <img src="./game_images/uncharted_legacy_2.png" width="900" height="500">
   <img src="./game_images/uncharted_legacy_3.png" width="900" height="500">
