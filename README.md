@@ -35,18 +35,18 @@ flipped, the aligned cards create a conflict. The person who wins one conflict w
 - 	When two players are fighting, always calculate sum of points of attack and points of defense. Spells is instantaneous attack.
 
 ## Game Set-ups
-- 1.	Place 5 gem stone on the side of the desk (Tesseract, Gem of flame, Aether, Chaotic gemstone and soul stone, they cannot stay inside the card pile). 
+1.	Place 5 gem stone on the side of the desk (Tesseract, Gem of flame, Aether, Chaotic gemstone and soul stone, they cannot stay inside the card pile). 
       Use 4 same types of fragments to conjure corresponding gemstone and first come first serve. Moreover, soul stone could obtain only by giving up 30 points of 
       attack.
-- 2.	Prepare cards pile of 12 fragments (they are trophy for winner of the battles) and make sure they are in random order.
-- 3.	Prepare initiative hand cards (Out-Of-Body *1 for Pirate and Explorer) Explorer and Pirate would select 2 out of 6 cards from their initiative weapons piles 
+2.	Prepare cards pile of 12 fragments (they are trophy for winner of the battles) and make sure they are in random order.
+3.	Prepare initiative hand cards (Out-Of-Body *1 for Pirate and Explorer) Explorer and Pirate would select 2 out of 6 cards from their initiative weapons piles 
       (Ancient Sword*2, Ghost axe*2 and Sword of Flame*2) Wizard would select two out of 6 cards from monster piles (Treant*4 and Zombie*2) 
-- 4.	Set two of Sword of Flame beside, could obtain by composing inferno fragments and ancient sword.
-- 5.	Players randomly pick up a character card from pile. Secondly, shuffled rest of the card pile.
-- 6.	Place 12 back-oriented cards on the table in two rows; the number of the each card in a row is 1, 2, 3, 4, 5 and 6 respectively. If the cards flipped lined up 
+4.	Set two of Sword of Flame beside, could obtain by composing inferno fragments and ancient sword.
+5.	Players randomly pick up a character card from pile. Secondly, shuffled rest of the card pile.
+6.	Place 12 back-oriented cards on the table in two rows; the number of the each card in a row is 1, 2, 3, 4, 5 and 6 respectively. If the cards flipped lined up 
       in a turn, and then the conflict will start. The person who wins the conflict would take fragments from fragments card pile as trophy. New cards will fill the 
       gaps if only 6 cards left on the table.
-- 7.	Special case: if there is no card left in the card pile but no one gather 3 gem stone, an inevitable battle would activated.
+7.	Special case: if there is no card left in the card pile but no one gather 3 gem stone, an inevitable battle would activated.
 
 ## Game Components
   <img src="./game_images/uncharted_legacy_1.png" width="900" height="500">
