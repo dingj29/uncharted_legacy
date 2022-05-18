@@ -16,6 +16,8 @@ of five arcane hidden gems, which store the unlimited fierce power. The Explorer
 the uncharted legacy, unfortunately, one out of the three characters was killed at the very beginning, only the other two have made it to the place. They see each other 
 as enemies and the only way to defeat the other is to hold three gems out of five. 
 
+<img src="./game_images/uncharted_legacy_1.png" width="900" height="500">
+
 ## Game System & Objectives
 At the beginning of the game, each player randomly chooses one Character from card pile. (Pirate and Explorer have their own initial weapons but the wizard does have 
 his own monsters to start with) Place 12 back-oriented cards on the table in two rows; the number in each row is 1, 2, 3, 4, 5, and 6 respectively. As the cards are 
@@ -47,5 +49,10 @@ flipped, the aligned cards create a conflict. The person who wins one conflict w
 - 7.	Special case: if there is no card left in the card pile but no one gather 3 gem stone, an inevitable battle would activated.
 
 ## Game Component
-Please see the pdf files above for more details
-
+  <img src="./game_images/uncharted_legacy_1.png" width="900" height="500">
+  <img src="./game_images/uncharted_legacy_2.png" width="900" height="500">
+  <img src="./game_images/uncharted_legacy_3.png" width="900" height="500">
+  <img src="./game_images/uncharted_legacy_4.png" width="900" height="500">
+  <img src="./game_images/uncharted_legacy_5.png" width="900" height="500">
+  <img src="./game_images/uncharted_legacy_6.png" width="900" height="500">
+  <img src="./game_images/uncharted_legacy_7.png" width="900" height="500">
