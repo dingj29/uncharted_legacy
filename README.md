@@ -18,7 +18,7 @@ of five arcane hidden gems, which store the unlimited fierce power. The Explorer
 the uncharted legacy. They see each other as enemies and the only way to defeat the other is to hold three gems out of five. 
 
 
-<img src="./game_images/uncharted_legacy_1.png" width="400"/>      <img src="./game_images/uncharted_legacy_2.png" width="400"/> 
+<img src="./game_images/uncharted_legacy_1.png" width="415"/>      <img src="./game_images/uncharted_legacy_2.png" width="415"/> 
 
 ## Game System & Objectives
 At the beginning of the game, each player randomly chooses one Character from card pile. (Pirate and Explorer have their own initial weapons but the wizard does have 
