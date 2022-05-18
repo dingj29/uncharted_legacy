@@ -8,6 +8,9 @@ I am super excited to show it to you. Hope you all like it!
 - Have 3 years of experience with Photoshop
 - Trained traditional artist: good at oil painting, acrylic painting and watercolor
 - Love to share my thought to the world by using art and express my feelings using art
+- Logical and creative, good at designing game rules
+- Love to play video games, board games and card games
+- Continuously collected player feedback to make improvements of user experience and balance the gameplay 
 
 ## Game Background
 In fable place of crisis – ridden with death, that swallows all lives who dare to step in, an ancient folklore exists. It says that there are five types of fragments 
