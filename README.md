@@ -7,7 +7,6 @@ I am super excited to show it to you. Hope you all like it!
 - Freelance Artist, doing art just for fun
 - Have 3 years of experience with Photoshop
 - Trained tradiional artist: good at oil painting, acrylic painting and watercolor
-- Applied to Sheridan College and got an offer about Game Design(I declined) 
 - Love to share my thought to the world by using art and express my feelings using art
 
 ## Game Background
