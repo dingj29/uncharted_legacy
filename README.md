@@ -13,10 +13,10 @@ I am super excited to show it to you. Hope you all like it!
 ## Game Background
 In fable place of crisis – ridden with death, that swallows all lives who dare to step in, an ancient folklore exists. It says that there are five types of fragments 
 of five arcane hidden gems, which store the unlimited fierce power. The Explorer, Pirate and Wizard, who come from different parts of the world and claimed to find 
-the uncharted legacy, unfortunately, one out of the three characters was killed at the very beginning, only the other two have made it to the place. They see each other 
-as enemies and the only way to defeat the other is to hold three gems out of five. 
+the uncharted legacy. They see each other as enemies and the only way to defeat the other is to hold three gems out of five. 
 
-<img src="./game_images/uncharted_legacy_1.png" width="900" height="500">
+
+<img src="./game_images/uncharted_legacy_1.png" width="500"/>      <img src="./game_images/uncharted_legacy_2.png" width="500"/> 
 
 ## Game System & Objectives
 At the beginning of the game, each player randomly chooses one Character from card pile. (Pirate and Explorer have their own initial weapons but the wizard does have 
