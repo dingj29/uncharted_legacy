@@ -23,7 +23,7 @@ the uncharted legacy. They see each other as enemies and the only way to defeat 
 ## Game System & Objectives
 At the beginning of the game, each player randomly chooses one Character from card pile. (Pirate and Explorer have their own initial weapons but the wizard does have 
 his own monsters to start with) Place 12 back-oriented cards on the table in two rows; the number in each row is 1, 2, 3, 4, 5, and 6 respectively. As the cards are 
-flipped, the aligned cards create a conflict. The person who wins one conflict would obtain fragments from the pile of fragments. 
+flipped, the aligned cards create a conflict. The person who wins one conflict would obtain fragments from the pile of fragments. The goal is to win 3 gems out of five.
 - 	The same cards have the power to nullify one another.
 - 	The winner of each fight would use the difference of strengths divided by 5 and take that number of fragments from pile of fragments.   
 - 	When only six cards left on the table, new back-oriented cards would fill the gaps.
