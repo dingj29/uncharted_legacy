@@ -37,6 +37,9 @@ flipped, the aligned cards create a conflict. The person who wins one conflict w
 - 	When two players are fighting, always calculate sum of points of attack and points of defense. Spells is instantaneous attack.
 
 ## Game Set-ups
+
+<img src="./game_images/setup.png" width="1000" height="1236">
+
 1.	Place 5 gem stone on the side of the desk (Tesseract, Gem of flame, Aether, Chaotic gemstone and soul stone, they cannot stay inside the card pile). 
       Use 4 same types of fragments to conjure corresponding gemstone and first come first serve. Moreover, soul stone could obtain only by giving up 30 points of 
       attack.
