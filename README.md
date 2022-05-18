@@ -1,12 +1,13 @@
 # Uncharted Legacy
 Uncharted Legacy is a fantasy card game for 2 players.
-The game took me nearly 2 years from concept design to complete. I built everything from scratch by using Photoshop to draw the digital paintings. 
+The game took me nearly 2 years to complete. I built everything from scratch by designing game rules and using Photoshop to draw the digital paintings. 
 I am super excited to show it to you. Hope you all like it!
 
 ## Personal Infos
 - Freelance Artist, doing art just for fun
 - Have 3 years digital painting experience using Photoshop
 - Trained traditional artist: good at oil painting, acrylic painting and watercolor
+- Good at making illustration
 - Love to share my thought to the world by using art and express my feelings using art
 - Logical and creative, good at designing game rules
 - Love to play video games, board games and card games
