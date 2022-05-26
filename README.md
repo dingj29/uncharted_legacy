@@ -5,7 +5,7 @@ I am super excited to show it to you. Hope you all like it!
 
 ## Personal Infos
 - Freelance Artist, doing art just for fun
-- online art portfolio: https://www.artstation.com/jianlanding7
+- Online art portfolio: https://www.artstation.com/jianlanding7
 - Have 3 years digital painting experience using Photoshop
 - Trained traditional artist: good at oil painting, acrylic painting and watercolor
 - Good at making illustration
