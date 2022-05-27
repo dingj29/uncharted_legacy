@@ -4,7 +4,7 @@ The game took me nearly 2 years to complete. I built everything from scratch by 
 I am super excited to show it to you. Hope you all like it!
 
 ## Personal Infos
-- Freelance Artist, doing art just for fun
+- Love art, and doing art just for fun
 - Online art portfolio: https://www.artstation.com/jianlanding7
 - Have 3 years digital painting experience using Photoshop
 - Trained traditional artist: good at oil painting, acrylic painting and watercolor
